@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
+p{
+        color: crimson;
+    font-size: 22px;
+}
+span{
+        color: red;
+        font-size: 30px;
+    }
+button{
+    color: blueviolet;
+    background-color: aqua;
+    padding: 10px 20px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid #b9187c;
+    padding: 10px;
+
+    
+}
